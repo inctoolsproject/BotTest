@@ -1,2 +1,2 @@
-# BotTest
-ujicoba
+# new
+Jangan lupa baca doa
